@@ -1,0 +1,6 @@
+{
+  "name": "Ria Style Agent",
+  "description": "Analyze clothing images with AI vision, generate editorial styling recommendations, match garments to curated high-fashion catalog items, and verify regional availability.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
